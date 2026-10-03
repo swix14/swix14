@@ -2,7 +2,7 @@
 
 🇨🇱 Developer & student from Chile.
 
-I like building things, learning new technologies and turning ideas into real projects.
+I build things, break them, and figure out how to fix them.
 
 ### Tech Stack
 
