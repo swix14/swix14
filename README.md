@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**swix14/swix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇱 Developer & student from Chile.
 
-Here are some ideas to get you started:
+I like building things, learning new technologies and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github" />
+
+### Projects
+
+* 🥫 **[DespensAPP](https://github.com/Typrix/DespensAPP)** — Pantry & shopping management app.
+* 🎓 **[Portal del Estudiante](https://github.com/swix14/portal-estudiante)** — Academic management platform.
+* 💼 **[Portafolio](https://github.com/swix14/Portafolio)** — Personal portfolio.
+
+---
+
+*Always learning, always building.*
